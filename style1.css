@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 224px;
+    text-align: center;
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px){
+    nav .parto{
+       width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
